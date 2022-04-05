@@ -1,0 +1,10 @@
+.vs/*
+/sudoku/bin/*
+/sudoku/obj/*
+/sudoku.test/bin/*
+/sudoku.test/obj/*
+*.cache
+*.json
+
+*.csproj.user
+*.sln
